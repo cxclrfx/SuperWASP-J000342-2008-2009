@@ -1,0 +1,6 @@
+quantity,year_2009,year_2010,interpretive_note
+Global_primary_mag,0.244,0.213,Seasonal-template values
+Global_secondary_mag,0.119,0.127,Apparent change not established
+Local_primary_pooled_mag,0.1516,0.0938,Different numerical definition from seasonal template
+Local_secondary_pooled_mag,0.0716,0.0548,Dependent on local observing coverage
+Local_primary_quality_subset_mag,0.1516,0.1532,2010 subset only five independent observing nights
